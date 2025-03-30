@@ -62,7 +62,7 @@ This repository provides a **structured roadmap** for learning **Machine Learnin
 
 ### Resources:
 - 🎓 [Unsupervised Learning - Kaggle](https://www.kaggle.com/learn/unsupervised-learning)
-- 📺 [StatQuest - Clustering Playlist (YouTube)](https://www.youtube.com/playlist?list=PLblh5JKOoLUIvG8YbghG2U6kYHfKlrJXq)
+- 📺 [StatQuest - Clustering Playlist (YouTube)](https://www.youtube.com/watch?v=4b5d3muPQmA&pp=ygUUY2x1c3RlcmluZyBzdGF0cXVlc3Q%3D)
 
 ## 4️⃣ Anomaly Detection
 **Goal:** Detect rare events
@@ -74,7 +74,7 @@ This repository provides a **structured roadmap** for learning **Machine Learnin
 
 ### Resources:
 - 🎓 [Anomaly Detection with Python - Coursera (Audit Free)](https://www.coursera.org/learn/anomaly-detection)
-- 📺 [Anomaly Detection - Krish Naik (YouTube)](https://www.youtube.com/watch?v=0XgKrL0IGrQ)
+- 📺 [Anomaly Detection - Krish Naik (YouTube)](https://www.youtube.com/watch?v=OS9xRGKfx4E&pp=ygUOI2Fub21hbHlmb3Jlc3Q%3D)
 
 ---
 
@@ -139,3 +139,5 @@ Data mining is the process of discovering patterns, correlations, trends, or ano
 
 ## 🧪 My Kaggle Profile
 🔗 [https://www.kaggle.com/belkacembekkour](https://www.kaggle.com/belkacembekkour)
+
+Note that it also recommanded to check DataCamp Courses and Cousera Courses. Also, it is always not enoughto learn from one source, try to look for the details of every algorithm and technique from different resources.
