@@ -50,7 +50,7 @@ This repository provides a **structured roadmap** for learning **Machine Learnin
 
 ### Resources:
 - 🎓 [Intermediate ML with Regression - Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
-- 📺 [StatQuest - Regression Playlist (YouTube)](https://www.youtube.com/playlist?list=PLblh5JKOoLUIi5X9yoUNfVWb6shRUz5fJ)
+- 📺 [StatQuest - Regression Playlist (YouTube)](https://www.youtube.com/c/joshstarmer/playlists)
 
 ## 3️⃣ Clustering
 **Goal:** Group data without labels
