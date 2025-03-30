@@ -16,7 +16,7 @@ This repository provides a **structured roadmap** for learning **Machine Learnin
 
 ### Resources:
 - 🎓 [Python for Data Science - FreeCodeCamp (YouTube)](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
-- 🎓 [Google Crash Course: Python (Colab Supported)](https://developers.google.com/learn/python)
+- 🎓 [Google Crash Course: Python (Colab Supported)](https://www.youtube.com/watch?v=8KeJZBZGtYo)
 - 📺 [Essence of Linear Algebra - 3Blue1Brown (YouTube)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - 🎓 [Statistics & Probability - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
