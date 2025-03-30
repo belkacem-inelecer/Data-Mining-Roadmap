@@ -2,7 +2,7 @@
 
 # 🧠 Machine Learning, Deep Learning, Data Science & Data Mining Roadmap (Free Resources)
 
-This repository provides a **structured roadmap** for learning **Machine Learning (ML)**, **Deep Learning**, **Data Science**, **Analytics**, and **Data Mining** — organized by core task types. Each section includes **free, high-quality playlists and courses**.
+This repository provides a **structured roadmap** for learning **Machine Learning (ML)**, **Deep Learning**, **Data Science**, **Analytics**, and **Data Mining** — organized by core task types. Each section includes **free, high-quality playlists and online courses**, all runnable via **Kaggle Notebooks** or **Google Colab**.
 
 ---
 
@@ -15,10 +15,10 @@ This repository provides a **structured roadmap** for learning **Machine Learnin
 - Calculus (Derivatives, Gradients)
 
 ### Resources:
-- [Python for Data Science - FreeCodeCamp](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
-- [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- [Statistics & Probability - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
-- [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+- 🎓 [Python for Data Science - FreeCodeCamp (YouTube)](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
+- 🎓 [Google Crash Course: Python (Colab Supported)](https://developers.google.com/learn/python)
+- 📺 [Essence of Linear Algebra - 3Blue1Brown (YouTube)](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- 🎓 [Statistics & Probability - Khan Academy](https://www.khanacademy.org/math/statistics-probability)
 
 ---
 
@@ -36,9 +36,8 @@ This repository provides a **structured roadmap** for learning **Machine Learnin
 - Evaluation: Accuracy, Precision, Recall, F1, ROC-AUC
 
 ### Resources:
-- [ML Full Course - FreeCodeCamp](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
-- [StatQuest - Classification Algorithms](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
-- [Kaggle: Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)
+- 🎓 [Classification - Kaggle Course](https://www.kaggle.com/learn/intro-to-machine-learning)
+- 📺 [StatQuest - Classification Playlist (YouTube)](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 
 ## 2️⃣ Regression
 **Goal:** Predict continuous values
@@ -50,8 +49,8 @@ This repository provides a **structured roadmap** for learning **Machine Learnin
 - Evaluation: MAE, MSE, RMSE, R²
 
 ### Resources:
-- [StatQuest: Linear Regression](https://www.youtube.com/playlist?list=PLblh5JKOoLUIi5X9yoUNfVWb6shRUz5fJ)
-- [Kaggle: Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning)
+- 🎓 [Intermediate ML with Regression - Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
+- 📺 [StatQuest - Regression Playlist (YouTube)](https://www.youtube.com/playlist?list=PLblh5JKOoLUIi5X9yoUNfVWb6shRUz5fJ)
 
 ## 3️⃣ Clustering
 **Goal:** Group data without labels
@@ -62,8 +61,8 @@ This repository provides a **structured roadmap** for learning **Machine Learnin
 - PCA, t-SNE
 
 ### Resources:
-- [StatQuest - Clustering](https://www.youtube.com/playlist?list=PLblh5JKOoLUIvG8YbghG2U6kYHfKlrJXq)
-- [Unsupervised Learning - Kaggle](https://www.kaggle.com/learn/unsupervised-learning)
+- 🎓 [Unsupervised Learning - Kaggle](https://www.kaggle.com/learn/unsupervised-learning)
+- 📺 [StatQuest - Clustering Playlist (YouTube)](https://www.youtube.com/playlist?list=PLblh5JKOoLUIvG8YbghG2U6kYHfKlrJXq)
 
 ## 4️⃣ Anomaly Detection
 **Goal:** Detect rare events
@@ -74,8 +73,8 @@ This repository provides a **structured roadmap** for learning **Machine Learnin
 - Autoencoders
 
 ### Resources:
-- [Anomaly Detection (Krish Naik)](https://www.youtube.com/watch?v=0XgKrL0IGrQ)
-- [Autoencoder - CodeBasics](https://www.youtube.com/watch?v=9P5MY_0Pu_4)
+- 🎓 [Anomaly Detection with Python - Coursera (Audit Free)](https://www.coursera.org/learn/anomaly-detection)
+- 📺 [Anomaly Detection - Krish Naik (YouTube)](https://www.youtube.com/watch?v=0XgKrL0IGrQ)
 
 ---
 
@@ -94,22 +93,17 @@ Data mining is the process of discovering patterns, correlations, trends, or ano
 - Web/Text Mining
 
 ## Resources:
-- [Data Mining Full Course (FreeCodeCamp)](https://www.youtube.com/watch?v=t8pPdKYpowI)
-- [Data Mining and Knowledge Discovery - IIT KGP (NPTEL)](https://www.youtube.com/playlist?list=PLbMVogVj5nJQnNYYH0o-ECjtVgdZfJ8V2)
-- [Mining Massive Datasets (Stanford)](http://www.mmds.org/)
-- [MIT OpenCourseWare – Data Mining](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm)
-- [Book: Introduction to Data Mining by Tan, Steinbach, Kumar (PDF available online)]
-- [Book: Data Mining: Concepts and Techniques - Han & Kamber]
-- [KDnuggets – Data Mining Tutorials](https://www.kdnuggets.com/data-mining/index.html)
+- 🎓 [Data Mining and Knowledge Discovery - NPTEL](https://www.youtube.com/playlist?list=PLbMVogVj5nJQnNYYH0o-ECjtVgdZfJ8V2)
+- 📺 [Data Mining Course - FreeCodeCamp (YouTube)](https://www.youtube.com/watch?v=t8pPdKYpowI)
 
 ---
 
 ## ⚙️ Tools & Libraries
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- Weka (GUI for Data Mining)
-- Orange (Visual Programming)
-- RapidMiner (No-code)
-- SQL (for data extraction)
+- Jupyter Notebooks (Run in Colab or Kaggle)
+- Weka (GUI-based)
+- Orange, RapidMiner (Low-code tools)
+- SQL for data querying
 
 ---
 
@@ -122,15 +116,15 @@ Data mining is the process of discovering patterns, correlations, trends, or ano
 - Dashboard Building
 
 ### Resources:
-- [Data Analysis with Python (FreeCodeCamp)](https://www.youtube.com/watch?v=r-uOLxNrNk8)
-- [IBM Data Analyst Course (Coursera)](https://www.coursera.org/professional-certificates/ibm-data-analyst)
+- 🎓 [Data Analysis with Python - FreeCodeCamp](https://www.youtube.com/watch?v=r-uOLxNrNk8)
+- 📺 [IBM Data Analyst - Coursera (Audit Free)](https://www.coursera.org/professional-certificates/ibm-data-analyst)
 
 ---
 
 ## 📚 Projects & Practice
-- Work on UCI Machine Learning Repository datasets
-- Participate in Kaggle competitions
-- Build mini-projects: market basket analysis, fraud detection, churn prediction
+- UCI ML Repository
+- Kaggle Competitions
+- Projects: market basket analysis, churn prediction, outlier detection
 
 ---
 
@@ -141,4 +135,7 @@ Data mining is the process of discovering patterns, correlations, trends, or ano
 4. Week 7–8: Data Mining Foundations (Apriori, FP-Growth)
 5. Week 9–10: Practice & Capstone Projects
 
-MY KAGGLE: [https://www.kaggle.com/belkacembekkour](https://www.kaggle.com/belkacembekkour)
+---
+
+## 🧪 My Kaggle Profile
+🔗 [https://www.kaggle.com/belkacembekkour](https://www.kaggle.com/belkacembekkour)
